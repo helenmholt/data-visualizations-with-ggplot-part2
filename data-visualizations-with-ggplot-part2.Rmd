@@ -1,7 +1,7 @@
 ---
-title: "week_8_exercises_data"
+title: "Data Visualizations with ggplot-part2"
 author: "J.Blondeau"
-date: "2024-10-08"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
@@ -37,5 +37,5 @@ Inspect the length_frequency.csv dataset.  This data represents two fish's relat
 
 Lastly, the usvi_2021_raw.csv dataset represents raw counts that divers observed in their sample.  One way to check for errors in a dataset like this is to plot a histogram of the raw numbers to visually check if something looks off.  
 
-6. Create a histogram for each species present in the dataset showing the distribution of NUMBER_OF_INDIVIDUALS.  Hint: For Loops
+6. Create a histogram for each species present in the dataset showing the distribution of NUMBER_OF_INDIVIDUALS.
 

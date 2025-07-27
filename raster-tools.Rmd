@@ -1,7 +1,7 @@
 ---
-title: "week_8_exercises_GIS"
+title: "Raster Tools"
 author: "J.Blondeau"
-date: "2024-10-08"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
